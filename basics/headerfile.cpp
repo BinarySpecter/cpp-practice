@@ -5,4 +5,4 @@
     vector<int> v;
     double x=2.5;
     cout<<ceil(x);
- }
+}
