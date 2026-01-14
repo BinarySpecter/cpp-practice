@@ -7,8 +7,10 @@ int main() {
 
     int t;
     cin >> t;
+    
     while (t--) {
         // solve here
     }
-    return 0;
+
+    return 0; //NN 
 }
